@@ -7,3 +7,4 @@ Welcome to my Deep Learning Projects Repository! This repository contains a coll
 ## Projects
 - [Name Classification with RNN](Name_classification_with_RNNs.ipynb)
 - [Stock Forecasting with LTSM](Stock-forecasting-with-LSTM.ipynb)
+- [Machine Translation with Seq2Seq](Machine-translation-with-Seq2Seq.ipynb)
